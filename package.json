@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^12.1.1"
+    "better-sqlite3": "^7.1.1",
+    "discord.js": "^12.1.1",
+    "keyvify": "^0.1.5"
   }
 }
