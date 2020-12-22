@@ -1,5 +1,6 @@
 # Discord.js Tutorial
 
+- **Command Handlers**
 - Episode No. 2
 - Youtube - https://youtu.be/Ell0QUL7_NQ
 - Article - https://guides.zyrouge.gq/discordjs/commands-handlers/
