@@ -1,5 +1,6 @@
 # Discord.js Tutorial
 
+- **Kick Command**
 - Episode No. 3
 - Youtube - https://youtu.be/KcIvHvB7LHo
 - Article - https://guides.zyrouge.gq/discordjs/kick-command/
