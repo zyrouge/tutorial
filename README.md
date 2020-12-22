@@ -12,3 +12,9 @@ Episode No. | Title | Branch
 2 | Command Handlers | [discord.js-episode-2](https://github.com/zyrouge/tutorial/tree/discord.js-episode-2)
 3 | Kick Command | [discord.js-episode-3](https://github.com/zyrouge/tutorial/tree/discord.js-episode-3)
 4 | Prefix Command | [discord.js-episode-4](https://github.com/zyrouge/tutorial/tree/discord.js-episode-4)
+
+## ExpressJS
+
+Episode No. | Title | Branch
+--- | --- | ---
+1 | The Basics | [express-episode-1](https://github.com/zyrouge/tutorial/tree/express-episode-1)
