@@ -1,5 +1,6 @@
 # Discord.js Tutorial
 
+- **Getting Started**
 - Episode No. 1
 - Youtube - https://youtu.be/B1wiAiBE0PU
 - Article - https://guides.zyrouge.gq/discordjs/coding/
